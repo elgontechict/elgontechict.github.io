@@ -1,0 +1,1 @@
+use ajax or php for the contact form to make it work.

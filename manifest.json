@@ -1,0 +1,26 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Elgon Tech Ict Consultancy",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://elgontechict.github.io",
+    "short_name": "Etic",
+    "theme_color": "#308ccf",
+    "description": "Ict Consultancy and Computer Software Company",
+    "orientation": "any",
+    "background_color": "#308ccf",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/img/favicon.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/img/apple-touch-icon.png",
+            "sizes": "500x500"
+        }
+    ],
+    "screenshots": []
+}
